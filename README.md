@@ -1,5 +1,4 @@
 # Financial Assistant Program Developed by Arefeayinie Asrat
-#### Video Demo:  <https://youtu.be/I_7_ht24oNs>
 #### Description:
 
 Welcome to Financial Assistant Program, a comprehensive tool designed to help you manage your finances efficiently. This project encompasses a variety of features that facilitate the recording, organizing, and analyzing of financial transactions. From managing daily expenses to planning for retirement, Financial Assistant provides a robust platform to support all your financial needs.
